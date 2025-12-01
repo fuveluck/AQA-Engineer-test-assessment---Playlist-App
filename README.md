@@ -19,7 +19,7 @@ npm install
 
 ## Setup Environment
 
-1. Create a `.env` file in the project root and define your own variables, for example your app's base URL and search terms.
+1. Create a `.env` file as it shown in `.env.example` in the project root and define your own variables, for example your app's base URL and search tracks.
 
    * Example variables you might include:
 
