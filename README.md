@@ -25,7 +25,7 @@ npm install
 
      * `BASE_URL`: your app's base URL
      * `SEARCH_TRACK_1`: search string to check functionality
-     * `SEARCH_TRACK_2`: search track for adding
+     * `SEARCH_TRACK_2`: search track for adding a single track test
      * `SEARCH_TRACK_3`: comma-separated list of tracks for total duration test
 
 2. The Cypress configuration will automatically load the environment variables from `.env`.
